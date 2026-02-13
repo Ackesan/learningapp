@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\AZ204\\testproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB1995D-C94C-4DD5-BB38-A146B3A7D7CE}|Learningapp\\Learningapp.csproj|c:\\projects\\az204\\testproject\\learningapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB1995D-C94C-4DD5-BB38-A146B3A7D7CE}|Learningapp\\Learningapp.csproj|solutionrelative:learningapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB1995D-C94C-4DD5-BB38-A146B3A7D7CE}|Learningapp\\Learningapp.csproj|c:\\projects\\az204\\testproject\\learningapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB1995D-C94C-4DD5-BB38-A146B3A7D7CE}|Learningapp\\Learningapp.csproj|solutionrelative:learningapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB1995D-C94C-4DD5-BB38-A146B3A7D7CE}|Learningapp\\Learningapp.csproj|c:\\projects\\az204\\testproject\\learningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB1995D-C94C-4DD5-BB38-A146B3A7D7CE}|Learningapp\\Learningapp.csproj|solutionrelative:learningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB1995D-C94C-4DD5-BB38-A146B3A7D7CE}|Learningapp\\Learningapp.csproj|c:\\projects\\az204\\testproject\\learningapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CB1995D-C94C-4DD5-BB38-A146B3A7D7CE}|Learningapp\\Learningapp.csproj|solutionrelative:learningapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 455,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\AZ204\\testproject\\Learningapp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Learningapp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\AZ204\\testproject\\Learningapp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Learningapp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T09:38:42.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Projects\\AZ204\\testproject\\Learningapp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Learningapp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Projects\\AZ204\\testproject\\Learningapp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Learningapp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T09:38:38.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\AZ204\\testproject\\Learningapp\\Program.cs",
+              "RelativeDocumentMoniker": "Learningapp\\Program.cs",
+              "ToolTip": "C:\\Projects\\AZ204\\testproject\\Learningapp\\Program.cs",
+              "RelativeToolTip": "Learningapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T09:37:53.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\AZ204\\testproject\\Learningapp\\appsettings.json",
+              "RelativeDocumentMoniker": "Learningapp\\appsettings.json",
+              "ToolTip": "C:\\Projects\\AZ204\\testproject\\Learningapp\\appsettings.json",
+              "RelativeToolTip": "Learningapp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T09:37:52.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 455,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

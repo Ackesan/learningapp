@@ -1,0 +1,7 @@
+C:\Projects\AZ204\testproject\Learningapp\obj\Release\net10.0\PubTmp\Out\Learningapp.exe
+C:\Projects\AZ204\testproject\Learningapp\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\AZ204\testproject\Learningapp\obj\Release\net10.0\PubTmp\Out\appsettings.json
+C:\Projects\AZ204\testproject\Learningapp\obj\Release\net10.0\PubTmp\Out\Learningapp.dll
+C:\Projects\AZ204\testproject\Learningapp\obj\Release\net10.0\PubTmp\Out\Learningapp.deps.json
+C:\Projects\AZ204\testproject\Learningapp\obj\Release\net10.0\PubTmp\Out\Learningapp.runtimeconfig.json
+C:\Projects\AZ204\testproject\Learningapp\obj\Release\net10.0\PubTmp\Out\Learningapp.pdb
